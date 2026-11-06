@@ -25,3 +25,11 @@
 - **原创教学重绘**：根据1865年原表数字表现Li2—Na9—K16及N6—P13—Mn20—As27的连续编号，明确“历史顺序编号，不是现代原子序数”。若展示完整表，准确标注Co&Ni等共享号码现象。
 - **图像辨伪**：[Science History Institute晚期玻璃板](https://digital.sciencehistory.org/works/xg94hq04d)虽标“NEWLANDS 1865”，但含He、Ne等后发现元素，不是1865原始论文图，不能作为原物转载。
 - **历史奖章**：1887年皇家学会[原始授奖通知馆藏目录](https://catalogues.royalsociety.org/calmview/Record.aspx?id=NLB%2F1%2F701&src=CalmView.Catalog)，优先用馆藏书目图而不未经授权复制信件影像。
+
+## 第八章拟制图与图版使用边界
+
+- **1864年迈耶元素家族主表**：[Cambridge Whipple Library馆藏说明](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/curating-chemical-elements/case-1a)，注意六列主表28元素与作者其他列表的区别，原始资料的图像复制权另核。
+- **1868年未刊草稿**：[RSC *Dalton Transactions* 2019原稿重现](https://pubs.rsc.org/en/content/articlehtml/2019/dt/c9dt00765b)；现见图片是后期出版/学术再现，不可署成“1868年公开印行”。
+- **1870年原子体积曲线**：[Whipple Library研究与历史图版](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/curating-chemical-elements/graphical-representations)，实际曲线含实线/虚线，不能用光滑的现代重新绘制曲线冒充原始图。
+- **现代原创小图**：可按常温近似Na 23.7、K 45.5、Fe 7.1 cm³/mol制作柱状图；该三点例子不等于完整1870历史周期曲线，图题须标注“现代教学示例”。
+- **1882年原始奖章函件**：[Royal Society档案MS/427/229](https://catalogues.royalsociety.org/calmview/Record.aspx?id=MS%2F427%2F229&src=CalmView.Catalog)；仅引用档案书目，未经许可不复制扫描件。

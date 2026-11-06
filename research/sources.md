@@ -132,6 +132,27 @@
 
 **证据边界：** 纽兰兹1865年表的2、9、16等是**根据历史当量/原子量排列的顺序号**，不是现代原子序数或相对原子质量。1864早期表曾有空位，1865—1866广泛传播的版本采取高度整齐的编号并存在同位多元素；不能笼统称“从未留空”。1866质疑的George Carey Foster与1887发信的Michael Foster为两人；1866伦敦化学学会与1887英国皇家学会为不同机构。
 
+## 第八章：洛塔尔·迈耶（1864—1870）及共同戴维奖章
+
+| ID | 类型 | 资料 | 用途及注意事项 |
+|---|---|---|---|
+| SRC-079 | A（原书与馆藏说明） | [Meyer, *Die modernen Theorien der Chemie* (1864)；Science History Institute介绍](https://www.sciencehistory.org/education/scientific-biographies/julius-lothar-meyer-and-dmitri-ivanovich-mendeleev/) | 1864年公开的28元素六家族主表、化合价与硅—锡间的空位；主表≠著作中所有元素 |
+| SRC-080 | B（剑桥大学科学史馆藏） | [Whipple Library: Meyer's First Table of Elements](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/curating-chemical-elements/case-1a) | 1864表与辅助元素统计、精度标记、早期空位、1868稿1895年刊出 |
+| SRC-081 | A（1870原论文，历史转录） | [Meyer, “Die Natur der chemischen Elemente als Function ihrer Atomgewichte,” *Justus Liebigs Annalen*, Suppl. 7 (1870):354—364](https://webserver.lemoyne.edu/giunta/meyer.html) | 1870分类表、原子体积曲线的源文献；历史转录并非原扫描全文视觉核验 |
+| SRC-082 | B（原图研究） | [Whipple Library: Graphical Representations](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/curating-chemical-elements/graphical-representations) | 1870原子体积曲线、1888后续曲线、实线与虚线表示不同数据可靠度；图像授权待核 |
+| SRC-083 | B（同行评议史学） | [Pulkkinen (2020), “Values in the Development of Early Periodic Tables,” *Ambix* 67(2):174—198](https://pubmed.ncbi.nlm.nih.gov/32292124/) | 纽兰兹简洁、迈耶审慎、门捷列夫完整性的研究框架；比较不同版本元素数，非人物当时自述 |
+| SRC-084 | B（专业化学学会历史） | [RSC: Development of the periodic table](https://periodic-table.rsc.org/about) | 迈耶1864/1868/1870阶段、原子体积的周期性、未刊手稿优先权问题 |
+| SRC-085 | B（专业学术论文） | [RSC *Dalton Transactions* (2019): Evolution and understanding of d-block elements](https://pubs.rsc.org/en/content/articlehtml/2019/dt/c9dt00765b) | 1868稿过渡金属的纳入、1895年Seubert发表手稿；图像被重新出版，不是1868刊登的原版 |
+| SRC-086 | B（史料再研究） | [Stemma: Lothar Meyer's system](https://stemmascience.org/en/node/meyer_1864/) | 1868草稿准备与1870论文提交日期；1870年3月刊期待原刊核对 |
+| SRC-087 | A（1882同期杂志） | [*Nature* 27 (16 November 1882):61—63，奖章公告](https://www.nature.com/articles/027061a0) | 1882年戴维奖章同时授予迈耶与门捷列夫，目的为承认元素原子量周期关系 |
+| SRC-088 | A（皇家学会官方档案） | [Royal Society Archives MS/427/229, 10 November 1882](https://catalogues.royalsociety.org/calmview/Record.aspx?id=MS%2F427%2F229&src=CalmView.Catalog) | 工作人员要求铸造两枚戴维奖章的原始函件书目 |
+| SRC-089 | B（研究史） | [“Historical Group” Meyer手稿保存及1893年展示线索](https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/13-14-ocr-opt.pdf) | 手稿于1895年刊出不代表1895年之前从未被任何人见过；原论文页图尚待核 |
+| SRC-090 | B（学术专书资料） | [Carmen J. Giunta, *Atoms in Chemistry*中迈耶传记章节](https://stjohnscollege.edu.in/web/wp-content/uploads/2022/01/Atoms-in-Chemistry-From-Daltons-Predecessors-to-Complex-Atoms-and-Beyond-C.-Giunta-ACS-2010-WW.pdf) | 1868手稿流转、塞伯特发表及其工作单位；原始扫描未完成视觉审校 |
+
+**计数警戒：** 1864年六族主表28种元素；著作中的辅助表与其他讨论涉及更多元素。1868草稿不同研究有52或53的计数。1870论文的表、曲线不一定覆盖完全相同的元素清单。必须注明版本／统计口径，不得把任何一个数字当所有版本的固定总数。
+
+**因果警戒：** 迈耶1864表中存在硅—锡之间的空位，不能说他“从不留空”；但该空位也不等同于门捷列夫1871年对类硅元素的全面性质预测。1868写成≠1868公开发表，1895正式刊出≠1895首次被所有人见到。1882奖章是学术认可，不是对历史优先权问题作完全排他的终审判决。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
