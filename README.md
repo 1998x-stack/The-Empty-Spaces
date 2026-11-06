@@ -10,14 +10,16 @@
 
 **[直接阅读序章：一个数字，足以推翻整个理论](manuscript/00-prologue/prologue.md)**
 
+**[第一章：33种基本物质——拉瓦锡的化学革命](manuscript/part-01-chaos/chapter-01.md)**
+
 [查看全书目录与全部22章](manuscript/CONTENTS.md)
 
 ## 书稿状态
 
 - 书名：已确定（中英文）。
 - 结构：序章 + 五部22章 + 尾声。
-- 序章：初稿完成，待史料审校；特别修正了“1875年发现镓”和“1876年密度复测”混写的常见错误。
-- 第1—22章与尾声：已建立**非空占位稿**和逐章写作提要，尚未撰写正文。
+- 序章：已完成盐选式历史非虚构叙事修订稿，待原始史料逐项审校；明确区分1875年发现镓与1876年密度复测。
+- 第一部第1章：完整叙事初稿已完成，附8条史料注释及审校清单；其余第2—22章和尾声仍为**非空占位稿**，尚未撰写正文。
 
 ## 仓库布局
 
@@ -41,7 +43,7 @@ scripts/                      书稿结构检查
 
 执行 `python3 scripts/check_manuscript.py`，校验目录章节数量、链接及序章正文基本完整性（不替代历史事实审校）。
 
-史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md)
+史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
 
 ## 版权
 

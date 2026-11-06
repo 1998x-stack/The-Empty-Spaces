@@ -15,6 +15,20 @@
 | SRC-009 | B | [Stanford Encyclopedia of Philosophy: Philosophy of Chemistry](https://plato.stanford.edu/entries/chemistry/) | 科学哲学与历史背景 |
 | SRC-010 | A/B | [Lecoq de Boisbaudran, 1875 paper bibliography](https://www.tandfonline.com/doi/abs/10.1080/14786447508641312) | 1875年论文元数据；全文是否可获取仍待确认 |
 
+## 第一章：拉瓦锡及化学革命的补充文献
+
+| ID | 类型 | 资料 | 用途 |
+|---|---|---|---|
+| SRC-011 | A | [Lavoisier, *Traité élémentaire de chimie* (1789), 原书法文全文](https://www.gutenberg.org/files/52489/52489-h/52489-h.htm) | 书前言、分析方法、燃素、热素、化学命名 |
+| SRC-012 | A | [1789年《简单物质表》原文](https://fr.wikisource.org/wiki/Traité_élémentaire_de_chimie/Partie_2/Tableau_1) | 逐项核对33种简单物质、4大类与旧名称 |
+| SRC-013 | A | [《化学基本论》Smithsonian Libraries扫描馆藏](https://library.si.edu/digital-library/book/traiteyeyleyment1lavo) | 1789年版本与图版对照、可追踪原件 |
+| SRC-014 | B | [Science History Institute：Antoine-Laurent Lavoisier](https://www.sciencehistory.org/education/scientific-biographies/antoine-laurent-lavoisier/) | 科学革命背景、氧气优先权、燃素说与合作者 |
+| SRC-015 | A | [Library of Congress：*Méthode de nomenclature chimique* (1787)](https://www.loc.gov/item/15011439/) | 1787年命名法改革的作者与书目信息 |
+| SRC-016 | A | [Science History Institute数字馆藏：1789年仪器图](https://digital.sciencehistory.org/works/v979v4270) | 玛丽-安妮·拉瓦锡的13幅仪器图雕版，含授权说明 |
+| SRC-017 | A | [1789年拉瓦锡《热素与光的结合表》](https://fr.wikisource.org/wiki/Traité_élémentaire_de_chimie/Partie_2/Tableau_3) | 解释为何原书保留热素与光 |
+
+原始资料中的“简单物质”是操作性分类，并不等于现代核电荷数意义上的元素定义。33项=5+6+17+5，其中23项可对应现代元素，另外10项并非现代元素。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
