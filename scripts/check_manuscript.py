@@ -126,6 +126,18 @@ def main() -> int:
         if not resolved.is_file():
             issues.append(f"broken contents link: {target}")
 
+    # Verify the reader-facing README and exact headings, not only the contents index.
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    for item in metadata["chapters"]:
+        rel = item["file"]
+        if f"]({rel})" not in readme:
+            issues.append(f"missing or malformed README manuscript link: {rel}")
+        doc_path = ROOT / rel
+        if doc_path.is_file():
+            first_line = doc_path.read_text(encoding="utf-8").splitlines()[0]
+            if first_line != f"# {item['title']}":
+                issues.append(f"heading differs from book.json title: {rel}")
+
     if issues:
         for item in issues:
             print(f"FAIL: {item}", file=sys.stderr)
