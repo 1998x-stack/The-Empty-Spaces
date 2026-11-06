@@ -96,6 +96,24 @@
 
 重要说明：武尔茨报告约140人到会；后期附录中的名单约126人，KIT另用127人数字，三者不是同一统计口径。迈耶“眼前鳞片脱落”属于多年后回忆；1889年门捷列夫举出的含铷表格不可能在1860大会展示，因为铷到1861年才发现。
 
+## 第六章：尚古多地螺旋与1862年的科学传播
+
+| ID | 类型 | 资料 | 用途与证据边界 |
+|---|---|---|---|
+| SRC-057 | A | [尚古多，1862年4月7日《法国科学院会议记录》54卷757—761页](https://fr.wikisource.org/wiki/Comptes_rendus_de_l%E2%80%99Acad%C3%A9mie_des_sciences/Tome_54,_1862/7_avril) | 地质学起点、45°螺旋、按数值划圆柱位置；本人说的是“特征数”，不是现代标准原子质量 |
+| SRC-058 | A（原始文字，数字转录待校） | [圣克莱尔·德维尔，1862年4月14日同期回应，54卷782页起](https://fr.wikisource.org/wiki/Page:Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences,_tome_054,_1862.djvu/782) | 当年并非“无人回应”，指出分类研究路线差别；Wikisource该页未标人工校对完成 |
+| SRC-059 | A | [尚古多1862年5月5日补充，54卷967—971页](https://fr.wikisource.org/wiki/Page:Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences,_tome_054,_1862.djvu/966) | 亦指向4月21日的补充和石印图准备 |
+| SRC-060 | A | [尚古多1862年向科学院提交石印图的声明，55卷600—601页](https://fr.wikisource.org/wiki/Page:Comptes_rendus_hebdomadaires_des_s%C3%A9ances_de_l%E2%80%99Acad%C3%A9mie_des_sciences,_tome_055,_1862.djvu/599) | 作者明确说图已石印，用来帮助读者理解4/7、4/21、5/5三篇文字 |
+| SRC-061 | A（国家图书馆原版书目） | [BNF 1863年《地螺旋》印本目录](https://catalogue.bnf.fr/ark:/12148/cb30077511j) | 明载1863年出版21页与3幅彩色石印图版；具体印本与1862其他版本的关系待核 |
+| SRC-062 | B | [Linda Hall Library：尚古多与地螺旋](https://www.lindahall.org/about/news/scientist-of-the-day/alexandre-emile-beguyer-de-chancourtois/) | 论文缺图、跨学科表述与传播有限的现代科学史归纳 |
+| SRC-063 | B（英国科学博物馆藏品） | [Science Museum Group：地螺旋立体模型](https://collection.sciencemuseumgroup.org.uk/objects/co13134/model-of-the-periodic-) | 实物是**1925年复原模型**而非1862作者原物；图片有CC BY-NC-SA限制，不默认可供商业使用 |
+| SRC-064 | B | [Philip J. Stewart, From telluric helix to telluric remix (2020)](https://link.springer.com/article/10.1007/s10698-019-09334-7) | 螺旋的周期性历史与现代周期长度不是固定16的限制 |
+| SRC-065 | A/B | [法国文献平台Persée：尚古多作者书目](https://www.persee.fr/authority/430403) | 著录1862年不同论文与单行本，版本关系需逐条核对 |
+| SRC-066 | B | [法国工程校友会：La vis tellurique de Chancourtois](https://www.lajauneetlarouge.com/vis-tellurique-chancourtois/) | 图像线索供编辑核版权，不直接拷贝 |
+| SRC-067 | B | [Science Museum 的历史藏品镜像条目](https://museu.ms/collection/object/223673/telluric-screw-of-de-chancourtois) | 圆柱16等分和45°示意，仅作二级核对 |
+
+**核心修正：** “1862年《科学院会议记录》文字未配完整图版”不等于“图从未存在”；“影响有限”不等于“当年无人回应”。1862年有同期回应、补充说明和石印图记录，1863年有附3幅彩色图版的印本。**现代完整元素周期表不是一个永远固定16质量单位的周期。**
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
