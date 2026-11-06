@@ -17,7 +17,7 @@
 
 ### 第二部：真理门前的竞争者（1860—1868）
 
-- [第5章：1860年，卡尔斯鲁厄——一场改变科学的大会](part-02-competitors/chapter-05.md)（待撰写）
+- [第5章：1860年，卡尔斯鲁厄——一场改变科学的大会](part-02-competitors/chapter-05.md)（完整初稿，待史料审校）
 - [第6章：元素缠绕的圆柱——尚古多被忽视的发现](part-02-competitors/chapter-06.md)（待撰写）
 - [第7章：每逢第八个——纽兰兹与八音律](part-02-competitors/chapter-07.md)（待撰写）
 - [第8章：来自德国的竞争者——迈耶距离终点有多近？](part-02-competitors/chapter-08.md)（待撰写）
