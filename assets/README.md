@@ -11,3 +11,10 @@
 5. 1869、1875、1879、1886时间线与填补空位示意。
 
 所有图片入库时需记录：作者、标题、源链接、版权状态、所允许的印刷／电子传播范围。
+
+## 第六章拟制图（未上传原图）
+
+- **原创示意**：使用简化数值O16/S32、C12/Si28、Na23/K39、F19/Cl35标出圆柱上同朝向的点。必须标注“现代教学重绘，不等于1862版精确布局”。
+- **史料对照**：[Linda Hall Library](https://www.lindahall.org/about/news/scientist-of-the-day/alexandre-emile-beguyer-de-chancourtois/)所示原图重绘；[法国国家图书馆1863年图本题录](https://catalogue.bnf.fr/ark:/12148/cb30077511j)，需进一步核对馆藏版面和印图版本。
+- **历史实物**：[Science Museum Group模型](https://collection.sciencemuseumgroup.org.uk/objects/co13134/model-of-the-periodic-)制于1925年，其照片仅在CC BY-NC-SA 4.0等条款下使用；商业出版需单独取得许可。
+- **科学比对**：标出同族相邻原子量差值未必等于16，避免只展示成功样本。

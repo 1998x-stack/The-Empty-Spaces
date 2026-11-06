@@ -20,6 +20,8 @@
 
 **[第五章：1860年，卡尔斯鲁厄——一场改变科学的大会](manuscript/part-02-competitors/chapter-05.md)**
 
+**[第六章：元素缠绕的圆柱——尚古多被忽视的发现](manuscript/part-02-competitors/chapter-06.md)**
+
 [查看全书目录与全部22章](manuscript/CONTENTS.md)
 
 ## 书稿状态
@@ -27,7 +29,7 @@
 - 书名：已确定（中英文）。
 - 结构：序章 + 五部22章 + 尾声。
 - 序章：已完成盐选式历史非虚构叙事修订稿，待原始史料逐项审校；明确区分1875年发现镓与1876年密度复测。
-- 第一部第1—4章及第二部第5章均已完成完整历史非虚构初稿，均待原始史料逐项审校。第五章约7,456汉字，11条注释，另有[深度设计](research/chapter-05-design.md)及[专门审校档案](research/chapter-05-karlsruhe-audit.md)。第6—22章与尾声仍为未撰写正文的占位稿。
+- 第一部第1—4章及第二部第5—6章已完成完整历史非虚构叙事初稿，仍待原始史料逐项审校。第六章约7,552汉字，附10条史料注释，另有[深度叙事设计](research/chapter-06-design.md)和[专项审校档案](research/chapter-06-chancourtois-audit.md)。第7—22章及尾声仍为正文占位稿。
 
 ## 仓库布局
 
