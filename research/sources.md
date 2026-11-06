@@ -197,3 +197,22 @@
 | SRC-111 | B | [Eric Scerri (2012), Oxford University Press Blog: How exactly did Mendeleev discover his periodic table?](https://blog.oup.com/2012/08/how-exactly-did-mendeleev-discover-his-periodic-table-of-1869/) | 研究手稿和纸牌故事争议的线索，不能据此确认私人情绪或具体当天动作 |
 
 **出版版本提醒：** 1868年首批章节出版与后世书目首版著录1869—1871并非必然矛盾；是分册与装订卷的不同出版史口径，需按实体初版核对。 
+
+
+## 第十一—十三章补充文献｜1869手稿、发现传播与空位
+
+| ID | 等级 | 文献与链接 | 使用范围 |
+|---|---|---|---|
+| SRC-112 | B | [Eric Scerri (2012), “How exactly did Mendeleev discover his periodic table of 1869?”, OUP Blog](https://blog.oup.com/2012/08/how-exactly-did-mendeleev-discover-his-periodic-table-of-1869/) | 奶酪邀请背面计算、双表草稿与卡片传说、Dmitriev手稿次序异议；非原档案实物核 |
+| SRC-113 | B | [ACS (2019), “Assembling the Modern Periodic Table”](https://inchemistry.acs.org/atomic-news/assembling-the-periodic-table.html) | 无存世整套元素卡片、1860年代先驱、1869年散发行为 |
+| SRC-114 | B | [Melinda Baldwin (2019), *Physics Today*, “A look at the first published periodic table”](https://physicstoday.aip.org/news/a-look-at-the-first-published-periodic-table-1760325252090) | AIP馆藏《化学原理》实物研究、早期问号、教学动机 |
+| SRC-115 | B（专业专著摘要） | [Masanori Kaji & Nathan Brooks (2015), “The Early Response to Mendeleev’s Periodic System in Russia,” OUP](https://academic.oup.com/book/40668/chapter-abstract/348354016) | 成稿2/17俄历、学会3/6俄历门舒特金代读、缺席相关说法；正文只按公开摘要 |
+| SRC-116 | A（1869摘要经英译） | [Carmen Giunta: 1869 *Zeitschrift für Chemie* 12:405–406 表及八条论断](https://web2.lemoyne.edu/~giunta/EA/MENDELEEVann.HTML) | ?45/?68/?70/?180、八条论断、Te128?/I127、俄文“周期性”与德文词汇差别 |
+| SRC-117 | B（引用俄国档案著作） | [V. D. Shiltsev & E. V. Shiltseva (2020), Fermilab, “Mendeleev: The Periodic Table and Beyond”](https://lss.fnal.gov/archive/2020/conf/fermilab-conf-20-031-ad-apc.pdf) | 引Druzhinin 2019重建的早期成稿、印张、单页、学会与期刊顺序；PDF首页已截图，仍需逐项核原书 |
+| SRC-118 | B | [Royal Society of Chemistry (2007), “The periodic tables of Mendeleev”](https://edu.rsc.org/feature/the-periodic-tables-of-mendeleev/2020258.article) | 1869与1871表形差异及部分错误数值；页面部分受限，原刊另核 |
+| SRC-119 | B（开放学术论文） | [Philip J. Stewart (2019), “Mendeleev’s predictions: success and failure,” *Foundations of Chemistry* 21:3–9](https://link.springer.com/article/10.1007/s10698-018-9312-0) | 1871类硼／类铝／类硅详细预测、同族与邻位推断及失败预测 |
+| SRC-120 | B（开放学术论文） | [Gábor Lente (2019), “Where Mendeleev was wrong: predicted elements that have never been found,” *ChemTexts* 5:17](https://link.springer.com/article/10.1007/s40828-019-0092-5) | 未兑现预测及稀土元素相关缺陷 |
+| SRC-121 | B | [Royal Society of Chemistry (2019), “Evolution and understanding of the d-block elements in the periodic table,” *Dalton Transactions*](https://pubs.rsc.org/en/content/articlehtml/2019/dt/c9dt00765b) | 迈耶／门捷列夫贡献与原始家族排列方向 |
+| SRC-122 | C/B（原始回忆追索线索） | [历史教育研究“ Mendeleev’s discovery of the periodic law” 的文献转存](https://docente.ifrn.edu.br/cristianecruz/Materiais%20de%20Aula/2019/licenciatura-em-quimica/aula-mista-ingles-quimica/leandro/texto-sobre-periodic-table) | 伊诺斯特兰采夫梦境故事的后期讨论；原发表页和引文版本尚未核 |
+
+**关键解释限制：** 当年手稿有真实历史影像，但本文没有因此取得版权可直接刊用的许可；对俄文1869原刊、会议记录及1871论文仍须进一步馆藏核实。
