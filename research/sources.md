@@ -256,3 +256,27 @@
 | SRC-148 | B（专业学术史） | [“Name game: the naming history of the chemical elements: part 2,” *Foundations of Chemistry* (2023)](https://link.springer.com/article/10.1007/s10698-022-09451-w) | 1898氪、氖、氙和命名的独立时间线 |
 | SRC-149 | B（专业化学史） | [Masanori Kaji, “D. I. Mendeleev’s Concept of Chemical Elements and the Principles of Chemistry,” *Bulletin for the History of Chemistry* 27(1) (2002), 4—16](https://acshist.scs.illinois.edu/bulletin_open_access/v27-1/v27-1%20p4-16.pdf) | 1902—1903第七版门捷列夫放弃N₃并接受稀有气体；此前SRC-106已有教材相关登记 |
 | SRC-150 | B（伦敦大学学院机构史） | [UCL Chemistry, “History of the Department”](https://www.ucl.ac.uk/mathematical-physical-sciences/chemistry/about-us/history-department) | 拉姆齐1904诺奖与稀有气体在周期系统中的位置；1906门捷列夫奖章问题留第20章专审 |
+
+
+## 第二十—二十二章新增文献｜1906诺奖、1913—1914莫塞莱、量子周期律与118种元素
+
+| ID | 等级 | 来源与链接 | 用途和证据限制 |
+|---|---|---|---|
+| SRC-151 | A（诺奖官方） | [NobelPrize.org, Otto Pettersson提名人档案](https://www.nobelprize.org/nomination/archive/show_people.php?id=7185) | 1905、1906门捷列夫正式提名；不是完整委员会记录 |
+| SRC-152 | A（诺奖官方） | [NobelPrize.org, “Henri Moissan — Facts”](https://www.nobelprize.org/prizes/chemistry/1906/moissan/facts/) | 1906莫瓦桑获奖理由、1907-02-20逝世 |
+| SRC-153 | B（ACS化学史研究） | [Arthur Greenberg 2022, *Bulletin for the History of Chemistry* 47(1), 15—28](https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/vol47-1.pdf) | 化学奖委员会4:1及扩大5:4；该PDF全文可检索但截图服务本轮失败，内部原档案未逐件核对 |
+| SRC-154 | B（ACS专题回顾） | [Ivan Amato 2006, *Chemical & Engineering News*, “1906 Chemistry Nobelist Henri Moissan”](https://cen.acs.org/articles/84/i47/1906-Chemistry-Nobelist-Henri-Moissan.html) | 1906评奖程序、克拉松等研究；不是同期会议逐字实录 |
+| SRC-155 | B（学术研究） | [Seeman et al. 2023, “The Uncertain Role of Nominations for the Nobel Prize in Chemistry,” *Chemistry – A European Journal*](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202203985) | 提名网络、阿伦尼乌斯可能影响；心理动机不能当确证 |
+| SRC-156 | B（专业学术书评） | [2008 IUCr书评：Scerri *The Periodic Table*](https://journals.iucr.org/b/issues/2008/01/00/pf0063/index.html) | 坎尼扎罗贡献/共奖讨论，需核瑞典原卷宗 |
+| SRC-157 | A（同期论文） | [H. G. J. Moseley 1913, “The High-Frequency Spectra of the Elements,” Part I, *Philosophical Magazine* 26:1024—1034](https://zenodo.org/record/1430926/files/article.pdf) | X射线谱系列研究；PDF开篇文本已读，插图和原刊待全面人工核对 |
+| SRC-158 | A（同期论文） | [H. G. J. Moseley 1914, Part II, *Philosophical Magazine* 27:703—713，MIT原刊扫描](https://web.mit.edu/8.13/www/pdf_files/moseley-1913-high-freq-spectra-elements-part2.pdf) | 末页6项总结、N核电荷、三空缺和公式；**本轮已截图核对1914年末页** |
+| SRC-159 | B（权威机构现代史学） | [NIST 2024, “Henry Moseley and the Periodic Table of the Elements”](https://www.nist.gov/news-events/news/2024/02/henry-moseley-and-periodic-table-elements) | van den Broek先驱、Rutherford/Bohr/Bragg背景、稀土第72号争议 |
+| SRC-160 | B（机构历史） | [American Physical Society, “August 10, 1915: Henry Moseley Killed in Action,” 2012](https://www.aps.org/apsnews/2012/08/henry-moseley-killed-action-1915) | 1915年逝世、战时科研中断；不使用耸动细节 |
+| SRC-161 | B（学术专著公开摘要） | [Helge Kragh 2012, *Niels Bohr and the Quantum Atom*, chapter 7](https://academic.oup.com/book/5807/chapter-abstract/149020670) | 玻尔1921元素电子结构与1925泡利原理，专著全文未逐页核 |
+| SRC-162 | A/B（美国化学会机构史） | [ACS, “Transuranium Elements at Berkeley Lab”](https://www.acs.org/education/whatischemistry/landmarks/transuranium-elements-at-berkeley-lab.html) | 1944西博格锕系概念、20世纪重元素认识 |
+| SRC-163 | B（当事人后期回忆） | [Science History Institute, “Interview with Glenn Seaborg”](https://digital.sciencehistory.org/works/o8azywh) | 西博格自述1944锕系重排；后期口述与1944当年文献区别 |
+| SRC-164 | A（IUPAC官方） | [IUPAC 2015-12-30, “Discovery and Assignment of Elements 113, 115, 117, 118”](https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/) | 发现标准验证、第七周期完整；不等于2016定名 |
+| SRC-165 | A（IUPAC官方） | [IUPAC 2016-11-30, “Names of Elements 113,115,117,118”](https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/) | 11-28批准Nh/Mc/Ts/Og名称和符号 |
+| SRC-166 | A（中国官方） | [全国科技名词审定委员会2017四元素中文名称](https://www.cnterm.cn/news/zhxw/202410/t20241010_762168.html) | 鉨、镆、鿬、鿫及2017-05-09发布日期 |
+| SRC-167 | B（期刊科学研究） | [Yuri Oganessian 2006, *Pure and Applied Chemistry* 78:889—904](https://publications.iupac.org/pac/78/5/0889/index.html) | 稳定岛核壳层理论，不能说已证明常温宏观稳定 |
+| SRC-168 | A（IUPAC当代入口） | [IUPAC Periodic Table of Elements](https://iupac.org/what-we-do/periodic-table-of-elements/) | 2026-11-06核得正式命名元素最高118，后续需重核119+状态 |
