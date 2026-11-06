@@ -51,7 +51,8 @@
 
 ## 资料与规范
 
-- [全书跨章事实与叙事审校记录（2026-11-06）](../research/cross-chapter-audit-2026-11-06.md)
+- [全书第二轮审校与终稿准入记录（2026-11-06）](../research/full-book-second-pass-audit-2026-11-06.md)
+- [第一轮跨章事实与叙事审校记录（2026-11-06）](../research/cross-chapter-audit-2026-11-06.md)
 - [编辑规范](../editorial/STYLE_GUIDE.md)
 - [基础文献](../research/sources.md)
 - [事实核验记录](../research/fact-check.md)
