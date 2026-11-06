@@ -27,7 +27,7 @@
 
 - [第10章：一本写不下去的教科书](part-03-discovery/chapter-10.md)（完整初稿，待史料审校）
 - [第11章：元素卡片——在纸张上寻找自然秩序](part-03-discovery/chapter-11.md)（完整初稿，待史料审校）
-- [第12章：1869年2月——元素之间第一次出现了秩序](part-03-discovery/chapter-12.md)（完整初稿，待史料审校）
+- [第12章：1869年2月——一张表如何提出周期律](part-03-discovery/chapter-12.md)（完整初稿，待史料审校）
 - [第13章：给不存在的元素留下位置](part-03-discovery/chapter-13.md)（完整初稿，待史料审校）
 - [第14章：从假说到预言——1871年的周期系统](part-03-discovery/chapter-14.md)（完整初稿，待史料审校）
 
@@ -47,10 +47,11 @@
 
 ### 尾声
 
-- [尾声：空位从未消失](06-epilogue/epilogue.md)（待撰写）
+- [尾声：空位从未消失](06-epilogue/epilogue.md)（完整初稿，待史料审校）
 
 ## 资料与规范
 
+- [全书跨章事实与叙事审校记录（2026-11-06）](../research/cross-chapter-audit-2026-11-06.md)
 - [编辑规范](../editorial/STYLE_GUIDE.md)
 - [基础文献](../research/sources.md)
 - [事实核验记录](../research/fact-check.md)

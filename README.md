@@ -32,7 +32,7 @@
 
 **[第十一章：元素卡片——在纸张上寻找自然秩序](manuscript/part-03-discovery/chapter-11.md)**
 
-**[第十二章：1869年2月——元素之间第一次出现了秩序](manuscript/part-03-discovery/chapter-12.md)**
+**[第十二章：1869年2月——一张表如何提出周期律](manuscript/part-03-discovery/chapter-12.md)**
 
 **[第十三章：给不存在的元素留下位置](manuscript/part-03-discovery/chapter-13.md)**
 
@@ -52,7 +52,9 @@
 
 **[第二十一章：1913年，莫塞莱揭开更深层的秘密](manuscript/part-05-legacy/chapter-21.md)**
 
-**[第二十二章：118种元素——从一张表走向原子的内部](manuscript/part-05-legacy/chapter-22.md)**
+**[第二十二章：118种元素——从一张表走向原子的内部](manuscript/part-05-legacy/chapter-22.md)
+
+**[尾声：空位从未消失](manuscript/06-epilogue/epilogue.md)****
 
 [查看全书目录与全部22章](manuscript/CONTENTS.md)
 
@@ -61,7 +63,7 @@
 - 书名：已确定（中英文）。
 - 结构：序章 + 五部22章 + 尾声。
 - 序章：已完成盐选式历史非虚构叙事修订稿，待原始史料逐项审校；明确区分1875年发现镓与1876年密度复测。
-- **全书22章及序章均已完成完整历史非虚构叙事初稿**，状态统一为“待原始史料逐项审校”。第三部第10—14章、第四部第15—18章、第五部第19—22章均已有正文。尾声《空位从未消失》仍为独立占位文件，尚待单独撰写。第20—22章各附有叙事设计与史料核验，现代118元素数据核查基准日为2026年11月6日。
+- **序章、全部22章与独立尾声均已完成历史非虚构叙事初稿。** 2026年11月6日完成一轮全书跨章事实一致性审读、22章结尾去重与语言精修，并单独完成《空位从未消失》。原始史料的逐页终审尚未全部完成，各章继续标记为“待史料审校”，不可误作最终定稿。现代118元素数据核查基准日为2026年11月6日；后续出版前需重新核对。
 
 ## 仓库布局
 
@@ -74,7 +76,7 @@ manuscript/
   part-03-discovery/          第三部（5章）
   part-04-verification/       第四部（4章）
   part-05-legacy/             第五部（4章）
-  06-epilogue/                尾声
+  06-epilogue/                尾声（完整初稿）
 research/                     文献／事实核验／时间线
 editorial/                    编辑与史料规范
 assets/                       图像及版权清单
@@ -85,7 +87,7 @@ scripts/                      书稿结构检查
 
 执行 `python3 scripts/check_manuscript.py`，检查22章文件与 `book.json` 状态一致性、完整初稿最低字数、来源脚注、目录链接、序章与尾声的结构完整性（不替代史料逐项核验）。
 
-史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
+审校进度：[全书跨章审校记录](research/cross-chapter-audit-2026-11-06.md) · 史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
 
 ## 版权
 

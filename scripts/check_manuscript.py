@@ -49,6 +49,9 @@ def main() -> int:
                 issues.append(f"missing chapter title: {relative}")
             if f"{part}/{label}.md" not in contents:
                 issues.append(f"missing contents link: {relative}")
+            book_title = m.get("title", "").split("：", 1)[-1]
+            if book_title and book_title not in doc.splitlines()[0]:
+                issues.append(f"chapter title differs from book.json: {relative}")
             if status == "draft":
                 drafts += 1
                 han_count = len(HAN.findall(doc))
@@ -92,8 +95,26 @@ def main() -> int:
         if "1875" not in doc or "1876" not in doc:
             issues.append("prologue must distinguish gallium discovery from density remeasurement")
 
-    if not (BOOK / "06-epilogue" / "epilogue.md").is_file():
+    epilogue = BOOK / "06-epilogue" / "epilogue.md"
+    epilogue_meta = chapter_meta.get("epilogue")
+    if not epilogue.is_file():
         issues.append("missing epilogue")
+    elif not epilogue_meta or epilogue_meta.get("status") != "draft":
+        issues.append("epilogue must be recorded as full draft in book.json")
+    else:
+        epi = epilogue.read_text(encoding="utf-8")
+        if len(HAN.findall(epi)) < 2500:
+            issues.append("epilogue full draft too short")
+        if "提纲占位／待撰写" in epi or "## 待办" in epi:
+            issues.append("epilogue still contains placeholder text")
+        if "## 注释与史料" not in epi:
+            issues.append("epilogue lacks cited source section")
+        defined = set(NOTES.findall(epi))
+        used = set(USAGES.findall(epi))
+        if not defined or not used.issubset(defined):
+            issues.append("epilogue footnotes are missing or unresolved")
+        if "06-epilogue/epilogue.md)（完整初稿，待史料审校）" not in contents:
+            issues.append("contents status differs from full epilogue draft")
     for rel in ("research/sources.md", "research/fact-check.md", "research/chronology.md", "editorial/STYLE_GUIDE.md"):
         if not (ROOT / rel).is_file():
             issues.append(f"missing research/editing resource: {rel}")
@@ -110,7 +131,7 @@ def main() -> int:
             print(f"FAIL: {item}", file=sys.stderr)
         return 1
     print(f"PASS: 22 chapters ({drafts} full drafts, {outlines} placeholders), "
-          "prologue, epilogue, footnotes, contents links and book.json")
+          "prologue and full epilogue draft, footnotes, contents links and book.json")
     return 0
 
 
