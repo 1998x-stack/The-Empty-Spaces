@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Validate the structural completeness of The Empty Spaces manuscript."""
+"""Validate The Empty Spaces chapter scaffolds, draft status, links and references."""
 from pathlib import Path
+import json
 import re
 import sys
 
@@ -13,64 +14,105 @@ COUNTS = {
     "part-04-verification": (15, 18),
     "part-05-legacy": (19, 22),
 }
+HAN = re.compile(r"[\u4e00-\u9fff]")
+NOTES = re.compile(r"^\[\^(\d+)\]:", re.M)
+USAGES = re.compile(r"\[\^(\d+)\]")
+
 
 def main() -> int:
-    problems = []
+    issues = []
     contents = (BOOK / "CONTENTS.md").read_text(encoding="utf-8")
-    expected = []
-    for part, (first, last) in COUNTS.items():
-        for number in range(first, last + 1):
-            path = BOOK / part / f"chapter-{number:02d}.md"
-            expected.append(path)
-            if not path.is_file():
-                problems.append(f"missing chapter: {path.relative_to(ROOT)}")
-                continue
-            content = path.read_text(encoding="utf-8")
-            if f"第{number}章" not in content or "核心叙事问题" not in content:
-                problems.append(f"bad chapter scaffold: {path.relative_to(ROOT)}")
-            if f"{part}/chapter-{number:02d}.md" not in contents:
-                problems.append(f"missing contents link: {path.relative_to(ROOT)}")
+    metadata = json.loads((ROOT / "book.json").read_text(encoding="utf-8"))
+    chapter_meta = {chapter["id"]: chapter for chapter in metadata["chapters"]}
+    processed = 0
+    drafts = 0
+    outlines = 0
 
-    if len(expected) != 22:
-        problems.append("expected exactly 22 chapter definitions")
-    prologue_path = BOOK / "00-prologue" / "prologue.md"
-    if not prologue_path.is_file():
-        problems.append("missing completed prologue")
+    for part, (first, last) in COUNTS.items():
+        for n in range(first, last + 1):
+            processed += 1
+            label = f"chapter-{n:02d}"
+            path = BOOK / part / f"{label}.md"
+            relative = path.relative_to(ROOT).as_posix()
+            m = chapter_meta.get(label)
+            if not path.is_file():
+                issues.append(f"missing chapter: {relative}")
+                continue
+            if not m:
+                issues.append(f"missing book.json record: {label}")
+                continue
+            if m.get("file") != relative:
+                issues.append(f"book.json path differs: {label}")
+            status = m.get("status")
+            doc = path.read_text(encoding="utf-8")
+            if not re.search(r"^#\s*第(?:\d+|[一二三四五六七八九十百]+)章", doc, re.M):
+                issues.append(f"missing chapter title: {relative}")
+            if f"{part}/{label}.md" not in contents:
+                issues.append(f"missing contents link: {relative}")
+            if status == "draft":
+                drafts += 1
+                han_count = len(HAN.findall(doc))
+                if han_count < 2500:
+                    issues.append(f"draft too short ({han_count} Han chars): {relative}")
+                if "待撰写：" in doc or "提纲占位／尚未撰写正文" in doc:
+                    issues.append(f"draft still contains placeholder: {relative}")
+                if "## 注释与史料" not in doc:
+                    issues.append(f"draft has no cited source section: {relative}")
+                defined = set(NOTES.findall(doc))
+                used = set(USAGES.findall(doc))
+                if not defined:
+                    issues.append(f"draft has no footnote definitions: {relative}")
+                if not used.issubset(defined):
+                    issues.append(f"unresolved footnote(s) {sorted(used-defined)}: {relative}")
+                if "（完整初稿，待史料审校）" not in contents.split(f"{part}/{label}.md", 1)[1].split("\n", 1)[0]:
+                    issues.append(f"contents status differs from draft: {relative}")
+            elif status == "outline":
+                outlines += 1
+                if "核心叙事问题" not in doc or "待撰写" not in doc:
+                    issues.append(f"outline scaffold incomplete: {relative}")
+                if "（待撰写）" not in contents.split(f"{part}/{label}.md", 1)[1].split("\n", 1)[0]:
+                    issues.append(f"contents status differs from outline: {relative}")
+            else:
+                issues.append(f"unknown chapter status {status}: {relative}")
+
+    if processed != 22:
+        issues.append(f"expected 22 chapters, found {processed}")
+    if len([c for c in metadata["chapters"] if c["id"].startswith("chapter-")]) != 22:
+        issues.append("book.json must contain 22 chapter records")
+
+    prologue = BOOK / "00-prologue" / "prologue.md"
+    if not prologue.is_file():
+        issues.append("missing prologue")
     else:
-        prologue = prologue_path.read_text(encoding="utf-8")
-        chinese_characters = len(re.findall(r"[\u4e00-\u9fff]", prologue))
-        if chinese_characters < 2500:
-            problems.append(f"prologue too short: {chinese_characters} Han characters")
-        if "## 注释与史料" not in prologue:
-            problems.append("prologue lacks cited source notes")
-        if "[^1]" not in prologue:
-            problems.append("prologue lacks inline source references")
-        if "1876" not in prologue or "1875" not in prologue:
-            problems.append("prologue must distinguish discovery and density remeasurement")
+        doc = prologue.read_text(encoding="utf-8")
+        if len(HAN.findall(doc)) < 2500:
+            issues.append("prologue too short")
+        if "## 注释与史料" not in doc or "[^1]" not in doc:
+            issues.append("prologue lacks referenced notes")
+        if "1875" not in doc or "1876" not in doc:
+            issues.append("prologue must distinguish gallium discovery from density remeasurement")
 
     if not (BOOK / "06-epilogue" / "epilogue.md").is_file():
-        problems.append("missing epilogue")
-    for relative in [
-        "research/sources.md", "research/fact-check.md",
-        "research/chronology.md", "editorial/STYLE_GUIDE.md",
-    ]:
-        if not (ROOT / relative).is_file():
-            problems.append(f"missing documentation: {relative}")
+        issues.append("missing epilogue")
+    for rel in ("research/sources.md", "research/fact-check.md", "research/chronology.md", "editorial/STYLE_GUIDE.md"):
+        if not (ROOT / rel).is_file():
+            issues.append(f"missing research/editing resource: {rel}")
 
-    # Only check local markdown links in contents; external sources are not checked here.
     for target in re.findall(r"\]\(([^)]+)\)", contents):
         if "://" in target or target.startswith("#"):
             continue
         resolved = (BOOK / target.split("#", 1)[0]).resolve()
         if not resolved.is_file():
-            problems.append(f"broken contents link: {target}")
+            issues.append(f"broken contents link: {target}")
 
-    if problems:
-        for p in problems:
-            print("FAIL:", p, file=sys.stderr)
+    if issues:
+        for item in issues:
+            print(f"FAIL: {item}", file=sys.stderr)
         return 1
-    print(f"PASS: 22 chapter scaffolds, complete prologue, epilogue and contents links")
+    print(f"PASS: 22 chapters ({drafts} full drafts, {outlines} placeholders), "
+          "prologue, epilogue, footnotes, contents links and book.json")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())
