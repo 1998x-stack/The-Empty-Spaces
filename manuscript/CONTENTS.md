@@ -20,7 +20,7 @@
 - [第5章：1860年，卡尔斯鲁厄——一场改变科学的大会](part-02-competitors/chapter-05.md)（完整初稿，待史料审校）
 - [第6章：元素缠绕的圆柱——尚古多被忽视的发现](part-02-competitors/chapter-06.md)（完整初稿，待史料审校）
 - [第7章：每逢第八个——纽兰兹与八音律](part-02-competitors/chapter-07.md)（完整初稿，待史料审校）
-- [第8章：来自德国的竞争者——迈耶距离终点有多近？](part-02-competitors/chapter-08.md)（待撰写）
+- [第8章：来自德国的竞争者——迈耶距离终点有多近？](part-02-competitors/chapter-08.md)（完整初稿，待史料审校）
 - [第9章：从西伯利亚到彼得堡——一个化学家的成长](part-02-competitors/chapter-09.md)（待撰写）
 
 ### 第三部：1869年，秩序诞生（1868—1871）
