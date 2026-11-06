@@ -26,9 +26,9 @@
 ### 第三部：1869年，秩序诞生（1868—1871）
 
 - [第10章：一本写不下去的教科书](part-03-discovery/chapter-10.md)（完整初稿，待史料审校）
-- [第11章：元素卡片——在纸张上寻找自然秩序](part-03-discovery/chapter-11.md)（待撰写）
-- [第12章：1869年2月——元素之间第一次出现了秩序](part-03-discovery/chapter-12.md)（待撰写）
-- [第13章：给不存在的元素留下位置](part-03-discovery/chapter-13.md)（待撰写）
+- [第11章：元素卡片——在纸张上寻找自然秩序](part-03-discovery/chapter-11.md)（完整初稿，待史料审校）
+- [第12章：1869年2月——元素之间第一次出现了秩序](part-03-discovery/chapter-12.md)（完整初稿，待史料审校）
+- [第13章：给不存在的元素留下位置](part-03-discovery/chapter-13.md)（完整初稿，待史料审校）
 - [第14章：从假说到预言——1871年的周期系统](part-03-discovery/chapter-14.md)（待撰写）
 
 ### 第四部：自然界接受审判（1875—1886）
@@ -56,5 +56,8 @@
 - [事实核验记录](../research/fact-check.md)
 - [科学史时间线](../research/chronology.md)
 - [第十章叙事设计](../research/chapter-10-design.md) · [第十章史料审校](../research/chapter-10-textbook-audit.md)
+- [第十一章设计](../research/chapter-11-design.md) · [第十一章审校](../research/chapter-11-handwriting-audit.md)
+- [第十二章设计](../research/chapter-12-design.md) · [第十二章审校](../research/chapter-12-publication-audit.md)
+- [第十三章设计](../research/chapter-13-design.md) · [第十三章审校](../research/chapter-13-gaps-audit.md)
 
 **写作原则：** 分清史实／可证推断／文学性的修辞组织；无法验证的对话不以直接引语出现。
