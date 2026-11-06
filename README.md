@@ -52,9 +52,9 @@
 
 **[第二十一章：1913年，莫塞莱揭开更深层的秘密](manuscript/part-05-legacy/chapter-21.md)**
 
-**[第二十二章：118种元素——从一张表走向原子的内部](manuscript/part-05-legacy/chapter-22.md)
+**[第二十二章：118种元素——从一张表走向原子的内部](manuscript/part-05-legacy/chapter-22.md)**
 
-**[尾声：空位从未消失](manuscript/06-epilogue/epilogue.md)****
+**[尾声：空位从未消失](manuscript/06-epilogue/epilogue.md)**
 
 [查看全书目录与全部22章](manuscript/CONTENTS.md)
 
