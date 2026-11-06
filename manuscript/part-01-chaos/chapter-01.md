@@ -396,15 +396,3 @@
 [^6]: Lavoisier, [*Traité élémentaire de chimie*, Partie II, Tableau 3](https://fr.wikisource.org/wiki/Trait%C3%A9_%C3%A9l%C3%A9mentaire_de_chimie/Partie_2/Tableau_3)，关于光、热素和物质状态的历史理论。
 [^7]: Library of Congress, [*Méthode de nomenclature chimique* (1787)](https://www.loc.gov/item/15011439/)，馆藏目录列出居顿·德·莫尔沃、拉瓦锡、贝托莱、富尔克鲁瓦等作者。
 [^8]: Science History Institute Digital Collections, [*Traité Élémentaire de Chimie* (1789)](https://digital.sciencehistory.org/works/v979v4270)，记载玛丽-安妮·保尔兹·拉瓦锡参与的十三幅铜版图和出版信息；其他辅助研究还可查该机构人物传记。
-
-## 本章事实审校清单（编辑用）
-
-- [x] 原始33项分组：5 + 6 + 17 + 5，合计33，已同原版表核对。
-- [x] 现代可算作元素的23项：17种金属 + 6种非金属／气体，已依据原表核对。
-- [x] 把光、热素、三种假设酸根和五种土类物质与现代元素区分。
-- [x] 不将氧气的发现独归拉瓦锡；承认舍勒、普里斯特利和其他合作者贡献。
-- [x] 不将质量守恒称作拉瓦锡一人凭空“发明”。
-- [x] 区分1787年化学命名法改革与1789年《化学基本论》出版。
-- [ ] 核对水的合成／分解中卡文迪许、拉普拉斯、梅尼耶与拉瓦锡的贡献细节及优先权争议。
-- [ ] 对照原版图版署名和研究史，完善玛丽-安妮的具体分工。
-- [ ] 图版排版与正式出版授权待另行处理。
