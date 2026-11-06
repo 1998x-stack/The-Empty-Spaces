@@ -29,6 +29,23 @@
 
 原始资料中的“简单物质”是操作性分类，并不等于现代核电荷数意义上的元素定义。33项=5+6+17+5，其中23项可对应现代元素，另外10项并非现代元素。
 
+## 第二章：道尔顿原子论的补充文献
+
+| ID | 类型 | 资料 | 用途 |
+|---|---|---|---|
+| SRC-018 | A | [Dalton, *A New System of Chemical Philosophy*, 1808（Smithsonian Libraries）](https://library.si.edu/digital-library/book/newsystemofchemi11dalt) | 1808年原子论文本、图版、元素符号、相对重量和HO |
+| SRC-019 | A | [Dalton, *A New System of Chemical Philosophy*, 图版与原书（Science History Institute）](https://digital.sciencehistory.org/works/ff365590j) | 原版图像与版本追溯 |
+| SRC-020 | B | [Science History Institute：John Dalton & the Theory of Atomism](https://www.sciencehistory.org/education/scientific-biographies/john-dalton/) | 生平、分压、最简单组合规则、理论局限 |
+| SRC-021 | B | [RSC, “John Dalton – the man and the myth” (2022)](https://pubs.rsc.org/en/content/articlehtml/2022/dt/d1dt04135e) | 1803／1805／1808年历史进程及1808年原书的结合规则 |
+| SRC-022 | B | [Grossman, 2021, *Ambix*, “John Dalton’s ‘Aha’ Moment”](https://pubmed.ncbi.nlm.nih.gov/33577439/) | 1803年笔记和1805年回顾的冲突；原子论起源史学争议 |
+| SRC-023 | B | [Science Museum, “Celebrating John Dalton”](https://blog.sciencemuseum.org.uk/celebrating-john-dalton/) | 1787年起气象日记、曼彻斯特教学、二十余万次观测 |
+| SRC-024 | B | [RSC, “Amadeo Avogadro 1776–1856”](https://edu.rsc.org/feature/amadeo-avogadro-1776-1856/2020088.article) | 1811年假说与水的分子组成问题 |
+| SRC-025 | B | [Royal Society of Chemistry：Periodic table history](https://periodic-table.rsc.org/history/about) | 第三章1829年三元素组及后续周期性发现 |
+| SRC-026 | B | [Cambridge：Berthollet-Proust controversy and Dalton’s atomic theory](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/bertholletproust-controversy-and-daltons-chemical-atomic-theory-18001820/85546E77FEB666B551EC42FF79376CEF) | 研究定比争论、原子论之间的联系 |
+| SRC-027 | B | [Wentrup et al. 2024, “Transition from Alchemical to Modern Chemical Symbolism”](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cplu.202400033) | 1803年9月6日原子量表和早期符号史 |
+
+1803年笔记中的原子量数据**与**1808年出版表的数字不同，不能把两个版本混写为同一次测量；水的HO结构与氧相对原子量约7属于道尔顿早期理论，不是现代公认的组成式或原子量。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
