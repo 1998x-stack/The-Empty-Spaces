@@ -77,7 +77,7 @@ scripts/                      书稿结构检查
 
 ## 质量与校核
 
-执行 `python3 scripts/check_manuscript.py`，校验目录章节数量、链接及序章正文基本完整性（不替代历史事实审校）。
+执行 `python3 scripts/check_manuscript.py`，检查22章文件与 `book.json` 状态一致性、完整初稿最低字数、来源脚注、目录链接、序章与尾声的结构完整性（不替代史料逐项核验）。
 
 史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
 
