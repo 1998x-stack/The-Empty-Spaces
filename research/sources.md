@@ -46,6 +46,20 @@
 
 1803年笔记中的原子量数据**与**1808年出版表的数字不同，不能把两个版本混写为同一次测量；水的HO结构与氧相对原子量约7属于道尔顿早期理论，不是现代公认的组成式或原子量。
 
+## 第三章：德贝莱纳三元素组的补充文献
+
+| ID | 类型 | 资料 | 用途 |
+|---|---|---|---|
+| SRC-028 | A | [Döbereiner 1829 原论文书目（Wikisource）](https://de.wikisource.org/wiki/Johann_Wolfgang_D%C3%B6bereiner) | 原题、期刊、卷数、301—307页 |
+| SRC-029 | A/B | [1829年原论文的英文转录及编者勘误（Chemogenesis）](https://www.meta-synthesis.com/webbook/35_pt/pt_database.php?search_year=1829) | 氯、溴、碘历史数值与原文算式的算术差异，仍须最终核对原印版 |
+| SRC-030 | B | [IUPAC: “Triads, Triads, Everywhere”](https://publications.iupac.org/ci/2008/3003/si.html) | 四组三元组、德贝莱纳1823铂催化及1829论文 |
+| SRC-031 | B | [耶拿大学：歌德与耶拿化学史](https://www.goethe.uni-jena.de/en/583/goethe-and-chemistry-at-the-university-of-jena) | 德贝莱纳1810、1819年教职及研究条件 |
+| SRC-032 | B | [Marshall & Marshall: Rediscovery of the Elements: Döbereiner](https://digital.library.unt.edu/ark:/67531/metadc111218/m1/1/) | 锶矿、1817线索、四组三元的现代数据 |
+| SRC-033 | B | [Eric R. Scerri: In praise of triads (2022)](https://link.springer.com/article/10.1007/s10698-022-09434-x) | 对三元素组历史作用与局限的现代学术争论 |
+| SRC-034 | B | [RSC Bromine History](https://periodic-table.rsc.org/element/35/) | 溴1826年发表及勒维希1825年前后的独立发现 |
+
+说明：在1829年原文转录中，(35.470＋126.470)/2被写为80.470，直接计算为80.970，二者相差0.5。需核查论文当年的原始印张后方可判定错误产生环节。正文的四组现代相对原子质量只用于说明**近似**规律，不作为1829年原数据。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
