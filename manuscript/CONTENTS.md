@@ -29,12 +29,12 @@
 - [第11章：元素卡片——在纸张上寻找自然秩序](part-03-discovery/chapter-11.md)（完整初稿，待史料审校）
 - [第12章：1869年2月——元素之间第一次出现了秩序](part-03-discovery/chapter-12.md)（完整初稿，待史料审校）
 - [第13章：给不存在的元素留下位置](part-03-discovery/chapter-13.md)（完整初稿，待史料审校）
-- [第14章：从假说到预言——1871年的周期系统](part-03-discovery/chapter-14.md)（待撰写）
+- [第14章：从假说到预言——1871年的周期系统](part-03-discovery/chapter-14.md)（完整初稿，待史料审校）
 
 ### 第四部：自然界接受审判（1875—1886）
 
-- [第15章：1875年，镓——来自法国的第一份实验判决](part-04-verification/chapter-15.md)（待撰写）
-- [第16章：1879年，钪——第二个空位被填满](part-04-verification/chapter-16.md)（待撰写）
+- [第15章：1875年，镓——来自法国的第一份实验判决](part-04-verification/chapter-15.md)（完整初稿，待史料审校）
+- [第16章：1879年，钪——第二个空位被填满](part-04-verification/chapter-16.md)（完整初稿，待史料审校）
 - [第17章：1886年，锗——第三次预言实现](part-04-verification/chapter-17.md)（待撰写）
 - [第18章：胜利之后——周期表仍然存在错误](part-04-verification/chapter-18.md)（待撰写）
 
@@ -59,5 +59,8 @@
 - [第十一章设计](../research/chapter-11-design.md) · [第十一章审校](../research/chapter-11-handwriting-audit.md)
 - [第十二章设计](../research/chapter-12-design.md) · [第十二章审校](../research/chapter-12-publication-audit.md)
 - [第十三章设计](../research/chapter-13-design.md) · [第十三章审校](../research/chapter-13-gaps-audit.md)
+- [第十四章设计](../research/chapter-14-design.md) · [第十四章审校](../research/chapter-14-1871-audit.md)
+- [第十五章设计](../research/chapter-15-design.md) · [第十五章审校](../research/chapter-15-gallium-audit.md)
+- [第十六章设计](../research/chapter-16-design.md) · [第十六章审校](../research/chapter-16-scandium-audit.md)
 
 **写作原则：** 分清史实／可证推断／文学性的修辞组织；无法验证的对话不以直接引语出现。
