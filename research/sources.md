@@ -183,3 +183,17 @@
 - [ ] 1869年首版周期表的高清可出版图像与版权状况。
 
 记录访问时间：2026-11-06。该日期不是出版日期。
+
+
+## 第十章新增重点文献｜《化学原理》教学与早期出版
+
+| ID | 等级 | 文献与链接 | 用途与边界 |
+|---|---|---|---|
+| SRC-106 | B | [Masanori Kaji (2002), “D. I. Mendeleev’s Concept of Chemical Elements and the Principles of Chemistry,” *Bulletin for the History of Chemistry* 27(1), 4–16](https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/bhc2002v027f1.pdf) | 第十章主研究：1867讲义、化合价、分册出版年表与跨元素家族关系；仍须核俄文原件 |
+| SRC-107 | B | [Michael D. Gordin (2012), “Translating Textbooks: Russian, German, and the Language of Chemistry,” *Isis* 103(1), 88–98](https://www.journals.uchicago.edu/doi/full/10.1086/664980) | 1867年10月教职、俄文教材需求、译本问题、版本演化 |
+| SRC-108 | B | [Kaji (1988), “The Historical Context of the First Edition of Mendeleev’s Chemistry Textbook,” *Journal of History of Science, Japan* 27(165), 24–36](https://www.jstage.jst.go.jp/article/jhsj/27/165/27_24/_article/-char/en) | 仅据公开摘要支持教育改革及俄罗斯化学事业背景；全文待核 |
+| SRC-109 | A（后期文本） | [Mendeleev *The Principles of Chemistry*, 1897年英译第六版（Gutenberg）](https://www.gutenberg.org/files/51326/51326-h/51326-h.htm) | 第六版序言与成熟教材章节，不得伪装1868初版 |
+| SRC-110 | A（历史摘要经翻译） | [Giunta: 1869年 *Zeitschrift für Chemie* 德文摘要英译](https://web2.lemoyne.edu/~giunta/EA/MENDELEEVann.HTML) | 1869周期律早期表述；德文译词“阶梯式变化”不等同俄文“周期性” |
+| SRC-111 | B | [Eric Scerri (2012), Oxford University Press Blog: How exactly did Mendeleev discover his periodic table?](https://blog.oup.com/2012/08/how-exactly-did-mendeleev-discover-his-periodic-table-of-1869/) | 研究手稿和纸牌故事争议的线索，不能据此确认私人情绪或具体当天动作 |
+
+**出版版本提醒：** 1868年首批章节出版与后世书目首版著录1869—1871并非必然矛盾；是分册与装订卷的不同出版史口径，需按实体初版核对。 
