@@ -235,3 +235,24 @@
 | SRC-133 | B | [RSC Scandium 元素史](https://periodic-table.rsc.org/element/21/Scandium) | 1879矿物、氧化物、非纯金属、现代元素说明 |
 | SRC-134 | A/B（1915年近时科学史著作） | [S. I. Levy, *The Rare Earths*, chapter XIV](https://readingroo.ms/6/2/9/2/62923/62923-h/62923-h.htm) | 1879初始氧化物与1880更纯样品，作者近时代的二手归纳，须查被引1879—1880原论文 |
 | SRC-135 | B | [RSC *Dalton Transactions* (2019)：d区元素分类与周期史](https://pubs.rsc.org/en/content/articlehtml/2019/dt/c9dt00765b) | 历史类硼与现代d区、Nilson/Cleve分工 |
+
+
+## 第十七—十九章新增文献｜1886锗、周期律失败案例与稀有气体
+
+| ID | 等级 | 文献及链接 | 用途与核验边界 |
+|---|---|---|---|
+| SRC-136 | A（1886同期全文） | [Clemens Winkler, “Mittheilungen über das Germanium,” *Journal für praktische Chemie* N.F. 34 (1886), 177—229](https://opac.geologie.ac.at/ais312/dokumente/Winkler_1886_Germanium.pdf) | 八次分析约7%缺额、早期类锑猜想及改为类硅、化合物与原子量；可检索原文，原版全部高分辨率图像待校 |
+| SRC-137 | A（当年论文书目） | [Winkler, “Germanium, Ge, ein neues, nichtmetallisches Element,” *Berichte* 19 (1886), 210—211](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cber.18860190156) | 1886年2月短文，不能合并同年的长篇详报 |
+| SRC-138 | A（同期报道） | [*Nature* 34, 580 (14 October 1886), “The New Element, Germanium”](https://www.nature.com/articles/034580a0) | 当时报道元素从类锑改判类硅、里希特/迈耶/门捷列夫的参与 |
+| SRC-139 | B（专业科学史） | [Charles S. Weinert, “Die Chemie ist schwierig: Winkler and the Discovery of Germanium,” *Bulletin for the History of Chemistry* 45(1) (2020), 8—15](https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/vol45-1.pdf) | 1885—1886发现史、职业背景及补充研究；全文PDF文本已读，页图因检索服务失败仍需人工核 |
+| SRC-140 | B（专业学术分析） | [Stewart, “Mendeleev’s predictions: success and failure,” *Foundations of Chemistry* 21 (2019), 3—9](https://link.springer.com/article/10.1007/s10698-018-9312-0) | 三次成功与另外多项失败、稀土“死区”、1904晚期表、史学分歧；此前SRC-119已登记 |
+| SRC-141 | B（专业学术分析） | [Gábor Lente, “Where Mendeleev was wrong,” *ChemTexts* 5 (2019), 17](https://link.springer.com/article/10.1007/s40828-019-0092-5) | Te/I、铍/铀值修订、didymium与稀土分类、N₃假说、1904新顿/日冕猜测；此前SRC-120已登记 |
+| SRC-142 | A（现代官方数据） | [IUPAC CIAAW, “Standard Atomic Weights”](https://ciaaw.org/atomic-weights.htm) | 碲127.60、碘126.90447；氩约39.95、钾39.10等现代对照，非19世纪当年测量 |
+| SRC-143 | A（1892同代公开信） | [Lord Rayleigh, “Density of Nitrogen,” *Nature* 46 (29 September 1892), 512—513](https://www.nature.com/articles/046512c0) | 不同制法氮气约千分之一密度差的初期报道；与1895研究分开 |
+| SRC-144 | A（1895原始演讲转录） | [Lord Rayleigh, “Argon,” *Proceedings of the Royal Institution* 14 (1895), 524—538，Giunta转录](https://web2.lemoyne.edu/~giunta/EA/RAYLEIGHann.HTML) | 氮气密度差与氩的发现路径，演讲发表年1895 |
+| SRC-145 | A（1895当年期刊馆藏） | [Rayleigh & Ramsay, “Argon, a New Constituent of the Atmosphere,” *Philosophical Transactions A* 186 (1895), 187—241，Smithsonian](https://library.si.edu/digital-library/book/philosophical18611895roya) | 氩的1894发现/1895正式论文；全部原刊实验表尚未逐页校 |
+| SRC-146 | B（学术研究） | [Helge Kragh, “The Solar Element: A Reconsideration of Helium’s Early History,” *Annals of Science* 66(2) (2009), 157—182](https://www.tandfonline.com/doi/full/10.1080/00033790902741633) | 1868太阳光谱与1895地球氦确认不能当同一发现事件 |
+| SRC-147 | A（大学原档案目录） | [University College London, RAMSAY/10/1, “The discovery of neon, krypton and xenon”](https://archives.ucl.ac.uk/CalmView/Record.aspx?id=RAMSAY%2F10%2F1) | 保存1898原刊短文、通信及Ramsay/Travers合作记录；目录已查，未宣称整卷内容读完 |
+| SRC-148 | B（专业学术史） | [“Name game: the naming history of the chemical elements: part 2,” *Foundations of Chemistry* (2023)](https://link.springer.com/article/10.1007/s10698-022-09451-w) | 1898氪、氖、氙和命名的独立时间线 |
+| SRC-149 | B（专业化学史） | [Masanori Kaji, “D. I. Mendeleev’s Concept of Chemical Elements and the Principles of Chemistry,” *Bulletin for the History of Chemistry* 27(1) (2002), 4—16](https://acshist.scs.illinois.edu/bulletin_open_access/v27-1/v27-1%20p4-16.pdf) | 1902—1903第七版门捷列夫放弃N₃并接受稀有气体；此前SRC-106已有教材相关登记 |
+| SRC-150 | B（伦敦大学学院机构史） | [UCL Chemistry, “History of the Department”](https://www.ucl.ac.uk/mathematical-physical-sciences/chemistry/about-us/history-department) | 拉姆齐1904诺奖与稀有气体在周期系统中的位置；1906门捷列夫奖章问题留第20章专审 |
