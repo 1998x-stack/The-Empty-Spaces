@@ -60,6 +60,24 @@
 
 说明：在1829年原文转录中，(35.470＋126.470)/2被写为80.470，直接计算为80.970，二者相差0.5。需核查论文当年的原始印张后方可判定错误产生环节。正文的四组现代相对原子质量只用于说明**近似**规律，不作为1829年原数据。
 
+## 第四章：原子量、当量、分子量与卡尔斯鲁厄前夜（补充）
+
+| ID | 等级 | 资料 | 用途与审校限制 |
+|---|---|---|---|
+| SRC-035 | A | [Auguste Laurent / William Odling, *Chemical Method*, 1855 (Wellcome Collection)](https://wellcomecollection.org/works/mwe8fxpm) | 1855年原书书目和多套化学记号的历史事实；具体页图待逐项核对 |
+| SRC-036 | A | [1855年*Chemical Method*原书扫描（Wikimedia Commons，公有领域标记）](https://commons.wikimedia.org/wiki/File%3AChemical_method_-_notation%2C_classification_and_nomenclature_%28IA_b22651470%29.pdf) | 奥德林译者序中的四套历史记号及HO、H₂O、AgO、Ag₂O；正式排版前需逐页核对 |
+| SRC-037 | B | [“What’s in a Name?”, *Chemistry* (2019), §3.6](https://www.mdpi.com/2624-8549/1/1/10) | 解释19世纪各体系的“equivalent weight”与“atomic weight”含义及奥德林1855年记号对照 |
+| SRC-038 | B | [RSC Education: Amadeo Avogadro 1776–1856](https://edu.rsc.org/feature/amadeo-avogadro-1776-1856/2020088.article) | 盖-吕萨克体积关系、1811年阿伏伽德罗两个核心假说及接纳历史 |
+| SRC-039 | B | [Science History Institute: Stanislao Cannizzaro](https://www.sciencehistory.org/education/scientific-biographies/stanislao-cannizzaro/) | 1858年教学提要及原子量、分子量标准化的科学史背景 |
+| SRC-040 | A/B | [Cannizzaro, *Sunto di un corso di filosofia chimica* (1858), 意大利文电子整理](https://www.forchecaudine.com/wp-content/uploads/2021/11/SICILIA-Salvatore-Cannizzaro-sunto-di-un-corso-di-filosofia-chimica.pdf) | 1858年原文及现代编辑；本环境PDF页图未成功读取，不能视为已核原刊扫描 |
+| SRC-041 | A | [Cannizzaro, “Sketch of a Course of Chemical Philosophy” (1858), historical English translation](https://erenow.org/common/history-philosophy-science-reader/74.php) | 原子与分子的区别；水18、CO28、CO₂44及碳12的具体比较 |
+| SRC-042 | B | [Science History Institute: “Setting the Table”](https://www.sciencehistory.org/stories/magazine/setting-the-table/) | 1859年会议组织、1860年争论、散发《提要》及会后传播；避免“当场达成一致”的错误 |
+| SRC-043 | B | [American Chemical Society: “Assembling the Modern Periodic Table”](https://inchemistry.acs.org/atomic-news/assembling-the-periodic-table.html) | 1860大会、阿伏伽德罗与门捷列夫周期系统的联系 |
+| SRC-044 | B | [*History of Chemistry*, Vol. 1, Dulong–Petit law](https://www.cyberlibrary.org/en/books/history-of-chemistry-volume-1-of-2-from-the-earliest-time-to-th-ea9e3196/chapters/24/) | 1819年固体比热与原子量经验规律及适用限度 |
+| SRC-045 | B | [“El Congreso de Karlsruhe” (2023), historical review](https://revistas.pucsp.br/index.php/hcensino/article/view/59081) | 会议记录及讨论的非一致性；要进一步读原始纪要 |
+
+**核心编辑约束：** HO/H₂O可表达相同的氢氧质量比，但并非同一微观结构断言；当量式HO不能与道尔顿早期结构假说HO混为一谈。1860卡尔斯鲁厄大会并未在会场上解决全部分歧。现代公式推演不应伪装成当事人演算。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
