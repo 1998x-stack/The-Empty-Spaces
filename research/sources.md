@@ -153,6 +153,28 @@
 
 **因果警戒：** 迈耶1864表中存在硅—锡之间的空位，不能说他“从不留空”；但该空位也不等同于门捷列夫1871年对类硅元素的全面性质预测。1868写成≠1868公开发表，1895正式刊出≠1895首次被所有人见到。1882奖章是学术认可，不是对历史优先权问题作完全排他的终审判决。
 
+## 第九章：门捷列夫的早年生活、科学训练与1867年授课
+
+| ID | 等级 | 文献与机构 | 支持结论和局限 |
+|---|---|---|---|
+| SRC-091 | B（俄罗斯科学院档案机构） | [俄罗斯科学院历史虚拟博物馆：门捷列夫生平](https://virtmus.arran.ru/?id=24D48C1F-89AC-4C09-9472-C51B5304F11E&q=ru/page) | 1834俄历1/27公历2/8、父亲失明、母亲玻璃工场、1849—1850入学与母亲去世、重要教师和研究 |
+| SRC-092 | B（俄国总统图书馆） | [俄罗斯总统图书馆：门捷列夫(1834—1907)](https://www.prlib.ru/Great_Russia/outstanding_scientists_XIX/Mendeleev) | 1849中学结束、1850—55师范学院、1856比容、1857授课、1865博士论文、1867任职；“第17个孩子”为一种史料口径 |
+| SRC-093 | B（专业化学学会） | [Royal Society of Chemistry: Journey of Discovery (2019)](https://www.rsc.org/news/2019/january/journey-of-discovery) | 母亲带子迁徙、莫斯科入学不顺、玻璃工场与家庭经济；手足数约14与其他史料不一致 |
+| SRC-094 | B（科学史机构） | [Science History Institute: Meyer and Mendeleev](https://www.sciencehistory.org/education/scientific-biographies/julius-lothar-meyer-and-dmitri-ivanovich-mendeleev/) | 门捷列夫家族、工业与化学兴趣、主师范学院、德国研究与卡尔斯鲁厄；当年其学术路径和迈耶不同 |
+| SRC-095 | B（同行评议科学史） | [Michael D. Gordin: “Translating Textbooks: Russian, German, and the Language of Chemistry,” *Isis* 103(1), 2012](https://www.journals.uchicago.edu/doi/full/10.1086/664980) | 1861返国求职/教材合同、1867一般化学课、1868《化学原理》写作动机；正文“1862出版”与其脚注初版1861需要版本学解释 |
+| SRC-096 | B（专业史学专著摘要） | [Nathan M. Brooks (2020): “Mendeleev’s Concept of the Chemical Elements Prior to the Periodic Law”](https://academic.oup.com/book/36758/chapter-abstract/321861101) | 同晶与比容并非全原创、受坎尼扎罗影响但非全盘立即接受、早期理论框架；目前**仅核开放摘要** |
+| SRC-097 | A（原始首版实物书目） | [Christie's: Mendeleev *Organicheskaia khimiia* 1861 first edition](https://www.christies.com/en/lot/lot-2072146) | 1861年《有机化学》初版题名页与1865年博士论文原版书目；不是完整原书扫描 |
+| SRC-098 | B（化学史同行研究） | [Masanori Kaji: “D. I. Mendeleev's Concept of Chemical Elements and The Principles of Chemistry,” *Bull. Hist. Chem.* 27(1), 2002](https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/bhc2002v027f1.pdf) | 1861有机化学教材、1862德米多夫奖、界限理论、1867讲授一般化学与缺教材；PDF截图本轮缓存失败，仅核可读文字 |
+| SRC-099 | B（专业学会史） | [RSC Education: “Mendeleev—the man and his legacy” (2007)](https://edu.rsc.org/feature/mendeleev-the-man-and-his-legacy-/2020190.article) | 家庭迁徙、师范学院、克里米亚教学，年份须与俄国档案交叉核验 |
+| SRC-100 | B（历史传记早期报道） | [*Nature* (1889): T. E. Thorpe, “Scientific Worthies”](https://www.nature.com/articles/040193a0) | “第17个孩子”的较早传记口径，正文亦存在老历/新历换算误差，不单独采用其2/7生日 |
+| SRC-101 | B（历史传记早期报道） | [*Scientific American* (1910): “Mendeleeff's Life and Work”](https://www.scientificamerican.com/article/mendeleeffs-life-and-work/) | “第14个孩子”的历史口径；母亲经营工厂与入学安排 |
+| SRC-102 | B（化学期刊传记） | [E. Babaev: “Dmitrii I. Mendeleev” (2009), *Mendeleev Communications*](https://www.chem.msu.ru/eng/misc/babaev/papers/139e.pdf) | 1855辛菲罗波尔/敖德萨、1856学位、1859海德堡、1860会议、1862获奖、1865博士论文；PDF首页截图已核 |
+| SRC-103 | B（科学史研究） | [Science History Institute: “An Element of Order” (2013)](https://www.sciencehistory.org/stories/magazine/an-element-of-order/) | 青年门捷列夫的工业/科研训练与迈耶路径差异，需警惕叙事化简述替代精确年代 |
+| SRC-104 | B（主师范学院与职业史） | [Russian Academy history museum: biographies and teachers](https://virtmus.arran.ru/?id=24D48C1F-89AC-4C09-9472-C51B5304F11E&q=ru/page) | 1950之前非圣彼得堡大学本科、教师师资名单与同晶训练 |
+| SRC-105 | B（出版史/实物交叉校） | [学术史与书目比对：Gordin 2012](https://www.journals.uchicago.edu/doi/full/10.1086/664980) + [1861实物书目](https://www.christies.com/en/lot/lot-2072146) | 1861首版、1862奖项和有些二级研究称1862出版并存；正式定稿需查俄国刊记、分册/合订时间 |
+
+**主要历史边界：** 母亲去世1850年是事实，但不能无证逐字重建临终遗言；第14／第17名子女不同传记口径暂不裁断；俄历1834-01-27对应公历1834-02-08；1855健康诊断和旅程细节不能凭后世传奇推断；1861首版题名年、1862奖项与个别著作“1862出版”属于需考据的书目问题。1867接手一般化学课程≠1867已画出1869周期表。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。

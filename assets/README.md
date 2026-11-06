@@ -33,3 +33,10 @@
 - **1870年原子体积曲线**：[Whipple Library研究与历史图版](https://www.whipplelib.hps.cam.ac.uk/special/exhibitions-and-displays/curating-chemical-elements/graphical-representations)，实际曲线含实线/虚线，不能用光滑的现代重新绘制曲线冒充原始图。
 - **现代原创小图**：可按常温近似Na 23.7、K 45.5、Fe 7.1 cm³/mol制作柱状图；该三点例子不等于完整1870历史周期曲线，图题须标注“现代教学示例”。
 - **1882年原始奖章函件**：[Royal Society档案MS/427/229](https://catalogues.royalsociety.org/calmview/Record.aspx?id=MS%2F427%2F229&src=CalmView.Catalog)；仅引用档案书目，未经许可不复制扫描件。
+
+## 第九章拟配史料与版权清单
+
+- **年轻门捷列夫肖像**：[俄国科学院档案机构](https://virtmus.arran.ru/?id=24D48C1F-89AC-4C09-9472-C51B5304F11E&q=ru/page)及[Science History Institute](https://www.sciencehistory.org/education/scientific-biographies/julius-lothar-meyer-and-dmitri-ivanovich-mendeleev/)可查研究背景；照片的年代和复制许可须具体核对。
+- **1850年主师范学院**：优先查圣彼得堡大学博物馆、大学史或国家档案原图，不上传未经授权的现代馆藏照片。
+- **1861年《有机化学》首版封面**：[Christie's原始书目](https://www.christies.com/en/lot/lot-2072146)，书本为1861，拍卖行现代拍摄图版权另行核查。
+- **职业时间线原创图**：1834托博尔斯克→1849莫斯科→1850圣彼得堡→1855克里米亚与敖德萨→1856彼得堡→1859海德堡→1860卡尔斯鲁厄→1861彼得堡→1867一般化学。可按史料自行制作，但不以旅程地图形状伪造历史原行程。
