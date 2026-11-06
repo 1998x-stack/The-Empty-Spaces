@@ -50,7 +50,7 @@ Li(2) — Na(9) — K(16) — Cu(23) — Rb(30) — Ag(37) — Cs(44) — Tl(51)
 - **P-01 纽兰兹原文系列**：[Carmen J. Giunta 历史学资料汇编：Newlands 1863、1864、1865论文](https://webserver.lemoyne.edu/~giunta/EA/NEWLANDSann.HTML)；关键：*Chemical News* 7 (1863):70—72；10 (1864):59—60、94—95；12 (1865):83。
 - **P-02 1866同期会议报道**：*Chemical News* 13 (9 March 1866):113，见[同一学术原文汇编](https://webserver.lemoyne.edu/~giunta/EA/NEWLANDSann.HTML)。
 - **P-03 英国原始期刊影印索引**：[1864年《化学新闻》第10卷馆藏数字化](https://upload.wikimedia.org/wikipedia/commons/2/22/The_chemical_news._Volume_10%2C_July_-_December_1864._%28IA_s713id13683320%29.pdf)；**尚未逐页查看原始PDF截图，影印页码不能宣称已校完**。
-- **P-04 1887皇家学会官方档案**：[Royal Society Archives NLB/1/701（1887-11-08，Michael Foster致John A. R. Newlands）](https://catalogues.royalsociety.org/calmview/Record.aspx?id=NLB%2F1%2F701%26src%3DCalmView.Catalog)。
+- **P-04 1887皇家学会官方档案**：[Royal Society Archives NLB/1/701（1887-11-08，Michael Foster致John A. R. Newlands）](https://catalogues.royalsociety.org/calmview/Record.aspx?id=NLB%2F1%2F701&src=CalmView.Catalog)。
 - **S-01 皇家化学学会历史**：[RSC development of the periodic table](https://periodic-table.rsc.org/history/about)；[RSC 2019 timeline](https://www.rsc.org/news/2019/january/finding-the-periodic-table)。
 - **S-02 同行评议研究**：Karoliina Pulkkinen, [“Values in the Development of Early Periodic Tables,” *Ambix* 67(2) (2020):174–198](https://pubmed.ncbi.nlm.nih.gov/32292124/)；[文章在线](https://www.tandfonline.com/doi/full/10.1080/00026980.2020.1747325)。强调纽兰兹重视简洁、迈耶重视审慎、门捷列夫重视完整；也证明1864早期分类有两处空位。
 - **S-03 专题科学史**：Eric R. Scerri, [“The Evolution of the Periodic System,” *Scientific American* (2011)](https://www.scientificamerican.com/article/the-evolution-of-the-periodic-system/)。

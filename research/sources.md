@@ -114,6 +114,24 @@
 
 **核心修正：** “1862年《科学院会议记录》文字未配完整图版”不等于“图从未存在”；“影响有限”不等于“当年无人回应”。1862年有同期回应、补充说明和石印图记录，1863年有附3幅彩色图版的印本。**现代完整元素周期表不是一个永远固定16质量单位的周期。**
 
+## 第七章：纽兰兹的八音律及1866年化学学会讨论
+
+| ID | 类型 | 资料 | 用途／风险 |
+|---|---|---|---|
+| SRC-068 | A（19世纪期刊原文，学术转录） | [J. A. R. Newlands, *Chemical News* 7 (1863):70—72；10 (1864):59—60、94—95；12 (1865):83，Giunta 历史文献编译](https://webserver.lemoyne.edu/~giunta/EA/NEWLANDSann.HTML) | 1863比较相似元素当量、1864顺序编号、1865八音律原表；**该网页是后期转录，仍须逐页核原刊扫描** |
+| SRC-069 | A（1866同期记者会议报道） | [*Chemical News* 13 (9 Mar 1866):113，伦敦化学学会3月1日会议记录](https://webserver.lemoyne.edu/~giunta/EA/NEWLANDSann.HTML) | 格拉德斯通担心新元素、乔治·凯里·福斯特按字母排列质疑、纽兰兹回应；不是逐字录音，无“全场哄笑”证据 |
+| SRC-070 | A（历史原刊影印） | [1864年《化学新闻》第10卷数字化扫描](https://upload.wikimedia.org/wikipedia/commons/2/22/The_chemical_news._Volume_10%2C_July_-_December_1864._%28IA_s713id13683320%29.pdf) | 1864原版复核；**当前未完成PDF逐页截图检验** |
+| SRC-071 | B（专业学会） | [Royal Society of Chemistry: Development of the periodic table](https://periodic-table.rsc.org/history/about) | 纽兰兹生平、八音律历史贡献、学会反应及表格局限；“无空位”的简述需与1864版本区别 |
+| SRC-072 | B（科学史论文） | [Karoliina Pulkkinen, “Values in the Development of Early Periodic Tables,” *Ambix* 67(2) (2020):174—198](https://pubmed.ncbi.nlm.nih.gov/32292124/) | 早期表曾留两个空位；纽兰兹重视简洁，迈耶谨慎，门捷列夫完整性；2020历史解释不等于当事人自述 |
+| SRC-073 | B（专业史学解释） | [Eric R. Scerri, “The Evolution of the Periodic System,” *Scientific American* (2011)](https://www.scientificamerican.com/article/the-evolution-of-the-periodic-system/) | 1866排版问题、化学性质例外、后世预测能力；当年发生的具体争论应优先核SRC-069 |
+| SRC-074 | A（皇家学会官方档案目录） | [Royal Society NLB/1/701，Michael Foster 致 John Newlands，1887年11月8日](https://catalogues.royalsociety.org/calmview/Record.aspx?id=NLB%2F1%2F701&src=CalmView.Catalog) | 确认1887年戴维奖章理由为发现元素周期律；**与1866质疑者George Carey Foster不同** |
+| SRC-075 | B（历史图版研究） | [Linda Hall Library, “John A. R. Newlands,” 收录1865年原表影像](https://www.lindahall.org/about/news/scientist-of-the-day/john-r-newlands) | 1865原版表格；不复用含水印或版权不明的图像 |
+| SRC-076 | B（专业学会历史） | [RSC: “Finding the periodic table” (2019)](https://www.rsc.org/news/2019/january/finding-the-periodic-table) | 1863—1866论文连续性及与门捷列夫、迈耶研究关系 |
+| SRC-077 | B（学术研究全文） | [Pulkkinen, Ambix 2020全文页面](https://www.tandfonline.com/doi/full/10.1080/00026980.2020.1747325) | 依据不同年份表格区分是否留空、为何有两个元素占同一序号；网页某些环境不可直接打开全文，但摘要和检索片段可核 |
+| SRC-078 | B（数字馆藏，需辨识年代） | [Science History Institute: Series table based on Law of Octaves](https://digital.sciencehistory.org/works/xg94hq04d) | 后期制作的图示含He/Ne等**晚于1865年的元素**，不可错称纽兰兹1865原版图表 |
+
+**证据边界：** 纽兰兹1865年表的2、9、16等是**根据历史当量/原子量排列的顺序号**，不是现代原子序数或相对原子质量。1864早期表曾有空位，1865—1866广泛传播的版本采取高度整齐的编号并存在同位多元素；不能笼统称“从未留空”。1866质疑的George Carey Foster与1887发信的Michael Foster为两人；1866伦敦化学学会与1887英国皇家学会为不同机构。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
