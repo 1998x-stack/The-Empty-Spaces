@@ -216,3 +216,22 @@
 | SRC-122 | C/B（原始回忆追索线索） | [历史教育研究“ Mendeleev’s discovery of the periodic law” 的文献转存](https://docente.ifrn.edu.br/cristianecruz/Materiais%20de%20Aula/2019/licenciatura-em-quimica/aula-mista-ingles-quimica/leandro/texto-sobre-periodic-table) | 伊诺斯特兰采夫梦境故事的后期讨论；原发表页和引文版本尚未核 |
 
 **关键解释限制：** 当年手稿有真实历史影像，但本文没有因此取得版权可直接刊用的许可；对俄文1869原刊、会议记录及1871论文仍须进一步馆藏核实。
+
+
+## 第十四—十六章新增文献｜1871年预测、1875—1876年镓、1879年钪
+
+| ID | 等级 | 来源 | 使用与限制 |
+|---|---|---|---|
+| SRC-123 | A（原文经20世纪英译节录） | [D. Mendeleev, “The Periodic Law of the Chemical Elements,” *Liebigs Annalen* supplement 8 (1871), 133—239，Farber节译](https://webserver.lemoyne.edu/giunta/Mendeleev1871.pdf) | 1871三元素预言、类铝68/6.0、类硅72/5.5、类硼44及自然分类；PDF节译首页和第3页已看页图；不是完整德文原刊 |
+| SRC-124 | A（馆藏实物目录） | [Science History Institute：1871年门捷列夫元素自然系统印表](https://digital.sciencehistory.org/works/9c67wp122/viewer/p5547s690) | 1871教学系统图，Public Domain 标记；不同于1869表，书稿本批未上传图片 |
+| SRC-125 | A（原始出版目录） | [法国科学院 *Comptes rendus* 81 (1875)目录](https://fr.wikisource.org/wiki/Comptes_rendus_de_l%E2%80%99Acad%C3%A9mie_des_sciences/Tome_81,_1875/Table_des_mati%C3%A8res) | 德布瓦博德兰493—495页、门捷列夫969页、后续性质1100页；正文原页待核 |
+| SRC-126 | B（大学馆藏与历史介绍） | [蒙彼利埃大学历史藏品：镓发现](https://collections.umontpellier.fr/component/k2/item/304-la-chronique-de-vincent-de-l-occitanie-au-japon-la-fantastique-saga-du-gallium) | 1875-08-27新谱线、皮埃尔菲特矿物、独立光谱学历史；引原报告但原件待核 |
+| SRC-127 | A（原始期刊出版目录） | [法国科学院 *Comptes rendus* 83 (1876)目录](https://fr.wikisource.org/wiki/Comptes_rendus_de_l%E2%80%99Acad%C3%A9mie_des_sciences/Tome_83,_1876/Table_des_mati%C3%A8res) | 第611页起镓物理性质与密度复测；须核同卷具体日期 |
+| SRC-128 | A（1876同期英文转述） | [*The Chemical News* 34 (1876) 原刊扫描](https://upload.wikimedia.org/wikipedia/commons/9/97/The_chemical_news._Volume_34%2C_July_-_December_1876._%28IA_s713id13691360%29.pdf) | 1876首次约4.7及复测约5.9—5.96；扫描尚未逐页校对，禁称已完成原始审校 |
+| SRC-129 | B | [RSC 元素分类史及类铝/镓数值表](https://periodic-table.rsc.org/history/about) | 现代回顾对照，不可混淆1871与1876原刊数值 |
+| SRC-130 | A（期刊原始书目） | [F. L. Nilson, “Ueber Scandium, ein neues Erdmetall,” *Berichte* 12 (1879), 554—557](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cber.187901201157) | 发现钪的一手论文书目；全文待逐页查证 |
+| SRC-131 | A（期刊原始目录） | [法国科学院 *Comptes rendus* 89 (1879)](https://fr.wikisource.org/wiki/Comptes_rendus_de_l%E2%80%99Acad%C3%A9mie_des_sciences/Tome_89,_1879/Table_des_mati%C3%A8res) | 克利夫《论钪》第419页起，避免用目录推断完整实验内容 |
+| SRC-132 | B（官方） | [IUPAC CIAAW 钪原子量及发现史](https://ciaaw.org/scandium.htm) | 尼尔森发现、克利夫识别类硼、现代44.955907 |
+| SRC-133 | B | [RSC Scandium 元素史](https://periodic-table.rsc.org/element/21/Scandium) | 1879矿物、氧化物、非纯金属、现代元素说明 |
+| SRC-134 | A/B（1915年近时科学史著作） | [S. I. Levy, *The Rare Earths*, chapter XIV](https://readingroo.ms/6/2/9/2/62923/62923-h/62923-h.htm) | 1879初始氧化物与1880更纯样品，作者近时代的二手归纳，须查被引1879—1880原论文 |
+| SRC-135 | B | [RSC *Dalton Transactions* (2019)：d区元素分类与周期史](https://pubs.rsc.org/en/content/articlehtml/2019/dt/c9dt00765b) | 历史类硼与现代d区、Nilson/Cleve分工 |
