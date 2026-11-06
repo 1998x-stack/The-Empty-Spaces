@@ -78,6 +78,24 @@
 
 **核心编辑约束：** HO/H₂O可表达相同的氢氧质量比，但并非同一微观结构断言；当量式HO不能与道尔顿早期结构假说HO混为一谈。1860卡尔斯鲁厄大会并未在会场上解决全部分歧。现代公式推演不应伪装成当事人演算。
 
+## 第五章：1860年卡尔斯鲁厄大会专题资料
+
+| ID | 等级 | 资料 | 用途与审校边界 |
+|---|---|---|---|
+| SRC-046 | A（后期编辑的会议记录） | [Wurtz: “Account of the Sessions of the International Congress of Chemists in Karlsruhe, 1860”](https://web.lemoyne.edu/Giunta/karlsruhe.html) | 邀请函、参会名单、九人委员会、三日讨论和有限决议；1929年档案整理／历史英译，不是1860现场逐字速记 |
+| SRC-047 | A（本人事后回顾） | [Mendeleev, “The Periodic Law of the Chemical Elements,” *J. Chem. Soc.* 55 (1889), 634–656](https://web.lemoyne.edu/giunta/ea/MENDELann.HTML) | K/Rb/Cs、Ca/Sr/Ba的原子量及旧当量对照；**1889年演讲**，不是1860大会表格 |
+| SRC-048 | B | [Michael W. Mönnich: “Thriving for Unity in Chemistry,” *Chemistry International* 32(6) (2010)](https://publications.iupac.org/ci/2010/3206/nov10.pdf) | IUPAC史料汇编：会议日程、帕韦西分发、迈耶后期回忆；PDF页图截图请求失败 |
+| SRC-049 | B | [Science History Institute: Setting the Table](https://www.sciencehistory.org/stories/magazine/setting-the-table/) | 大会组织与后续影响 |
+| SRC-050 | B | [Science History Institute: Stanislao Cannizzaro](https://www.sciencehistory.org/education/scientific-biographies/stanislao-cannizzaro/) | 1858年《提要》、1860大会和分子量思想 |
+| SRC-051 | B | [Science History Institute: Meyer and Mendeleev](https://www.sciencehistory.org/education/scientific-biographies/julius-lothar-meyer-and-dmitri-ivanovich-mendeleev/) | 两位研究者参加会议及各自后续研究 |
+| SRC-052 | B | [Karlsruhe Institute of Technology: Periodic Table of the Elements](https://www.100objekte.kit.edu/en/object/011/) | 本地科学史资料，出席者具名人数127的口径，与武尔茨记载的约140到会不同 |
+| SRC-053 | B | [University of Waterloo: Creation of the Periodic Table](https://uwaterloo.ca/centre-advanced-science-education/news/creation-periodic-table) | 会议历史地点、周期律研究的基础条件 |
+| SRC-054 | B（学术专著公开节选） | [Michael D. Gordin, *A Well-Ordered Thing*, Princeton University Press](https://assets.press.princeton.edu/chapters/s13297.pdf) | 门捷列夫1860年致老师书信的学术说明；原俄文报刊需进一步核对 |
+| SRC-055 | A/B | [Cannizzaro 1858年《提要》意大利文电子整理](https://www.forchecaudine.com/wp-content/uploads/2021/11/SICILIA-Salvatore-Cannizzaro-sunto-di-un-corso-di-filosofia-chimica.pdf) | 当年讲义的科学主张；不能冒充已对照原刊影印 |
+| SRC-056 | B | [Marshall & Marshall: Karlsruhe chemistry history](https://sites.chemistry.unt.edu/~jimm/rediscovery%207-09-2018/Hexagon%20Articles/Karlsruhe.pdf) | 会场旧址、门捷列夫书信和迈耶回忆的线索；原照片与文字版权另核 |
+
+重要说明：武尔茨报告约140人到会；后期附录中的名单约126人，KIT另用127人数字，三者不是同一统计口径。迈耶“眼前鳞片脱落”属于多年后回忆；1889年门捷列夫举出的含铷表格不可能在1860大会展示，因为铷到1861年才发现。
+
 ## 仍需查找的第一手材料
 
 - [ ] 德布瓦博德兰1876—1877年发表的镓密度原始实验记录和措辞。
