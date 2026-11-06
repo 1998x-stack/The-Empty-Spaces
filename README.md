@@ -63,7 +63,7 @@
 - 书名：已确定（中英文）。
 - 结构：序章 + 五部22章 + 尾声。
 - 序章：已完成盐选式历史非虚构叙事修订稿，待原始史料逐项审校；明确区分1875年发现镓与1876年密度复测。
-- **序章、全部22章与独立尾声均已完成历史非虚构叙事初稿。** 2026年11月6日完成一轮全书跨章事实一致性审读、22章结尾去重与语言精修，并单独完成《空位从未消失》。原始史料的逐页终审尚未全部完成，各章继续标记为“待史料审校”，不可误作最终定稿。现代118元素数据核查基准日为2026年11月6日；后续出版前需重新核对。
+- **序章、全部22章与独立尾声均已完成历史非虚构叙事初稿。** 2026年11月6日完成两轮全书结构与跨章一致性审读：第一轮对22章结尾去重与语言精修，并形成尾声；第二轮精修尾声和最后两章衔接、统一章节标题数字及元数据、修复阅读链接，并建立出版前史料准入清单。原始史料的逐页终审尚未全部完成，各章继续标记为“待史料审校”，不可误作最终定稿。现代118元素数据核查基准日为2026年11月6日；后续出版前需重新核对。
 
 ## 仓库布局
 
@@ -87,7 +87,7 @@ scripts/                      书稿结构检查
 
 执行 `python3 scripts/check_manuscript.py`，检查22章文件与 `book.json` 状态一致性、完整初稿最低字数、来源脚注、目录链接、序章与尾声的结构完整性（不替代史料逐项核验）。
 
-审校进度：[全书跨章审校记录](research/cross-chapter-audit-2026-11-06.md) · 史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
+审校进度：[第二轮全书审校与终稿准入记录](research/full-book-second-pass-audit-2026-11-06.md) · [第一轮跨章审校](research/cross-chapter-audit-2026-11-06.md) · 史料入口：[来源清单](research/sources.md) · [时间线](research/chronology.md) · [事实核验](research/fact-check.md) · [编辑规范](editorial/STYLE_GUIDE.md) · [叙事引擎](editorial/NARRATIVE_PLAYBOOK.md)
 
 ## 版权
 
