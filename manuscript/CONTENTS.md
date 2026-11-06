@@ -41,9 +41,9 @@
 ### 第五部：发现者之后，规律继续生长（1894年至今）
 
 - [第19章：周期表的意外来客——稀有气体带来的挑战](part-05-legacy/chapter-19.md)（完整初稿，待史料审校）
-- [第20章：1906年，诺贝尔奖的遗憾](part-05-legacy/chapter-20.md)（待撰写）
-- [第21章：1913年，莫塞莱揭开更深层的秘密](part-05-legacy/chapter-21.md)（待撰写）
-- [第22章：118种元素——从一张表走向原子的内部](part-05-legacy/chapter-22.md)（待撰写）
+- [第20章：1906年，诺贝尔奖的遗憾](part-05-legacy/chapter-20.md)（完整初稿，待史料审校）
+- [第21章：1913年，莫塞莱揭开更深层的秘密](part-05-legacy/chapter-21.md)（完整初稿，待史料审校）
+- [第22章：118种元素——从一张表走向原子的内部](part-05-legacy/chapter-22.md)（完整初稿，待史料审校）
 
 ### 尾声
 
@@ -65,5 +65,8 @@
 - [第十七章设计](../research/chapter-17-design.md) · [第十七章审校](../research/chapter-17-germanium-audit.md)
 - [第十八章设计](../research/chapter-18-design.md) · [第十八章审校](../research/chapter-18-errors-audit.md)
 - [第十九章设计](../research/chapter-19-design.md) · [第十九章审校](../research/chapter-19-noble-gas-audit.md)
+- [第二十章设计](../research/chapter-20-design.md) · [第二十章审校](../research/chapter-20-nobel-audit.md)
+- [第二十一章设计](../research/chapter-21-design.md) · [第二十一章审校](../research/chapter-21-moseley-audit.md)
+- [第二十二章设计](../research/chapter-22-design.md) · [第二十二章审校](../research/chapter-22-modern-table-audit.md)
 
 **写作原则：** 分清史实／可证推断／文学性的修辞组织；无法验证的对话不以直接引语出现。
